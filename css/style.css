@@ -759,8 +759,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Testimonials Section
 --------------------------------*/
 #testimonials {
-  background: #f6f6f6;
-  padding: 80px 0;
+  background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url("../images/group2.jpg") fixed center center;
+  background-size: cover;
+  padding: 80px 0 60px 0;
 }
 
 #testimonials .profile {
