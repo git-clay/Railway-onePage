@@ -138,7 +138,17 @@ jQuery(document).ready(function( $ ) {
   function onNavigate(){
     window.open("http://maps.google.com?q=%28211+E.+Innes+St.%2C+Salisbury%2C+NC%2C+28144%2C+us%29", "_blank");
   }
-  $( ".price-title" ).click(function() {
-    $(".content").slideToggle();
+
+  $( "#pricebox1" ).click(function() {
+    $("#pricecontent1").slideToggle();
+  });
+  $( "#pricebox2" ).click(function() {
+    $("#pricecontent2").slideToggle();
+  });
+  $( "#pricebox3" ).click(function() {
+    $("#pricecontent3").slideToggle();
+  });
+  $( "#pricebox4" ).click(function() {
+    $("#pricecontent4").slideToggle();
   });
 });

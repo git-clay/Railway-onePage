@@ -1,0 +1,10 @@
+# todo:
+
+low 	- the line chart (health / sickness)
+high 	- √√gym features section
+medium 	- dress up map
+high 	- √√pictures on mobile fix
+high	- √√connect contact form (PHP)
+medium 	- free week page
+high	- pricing page
+low		- fb reviews api
